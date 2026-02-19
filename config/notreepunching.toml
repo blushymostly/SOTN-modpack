@@ -15,13 +15,13 @@
 [blockHarvesting]
 
     # If blocks are mineable without the correct tool.
-    doBlocksMineWithoutCorrectTool = false
+    doBlocksMineWithoutCorrectTool = true
 
     # If blocks drop their items without the correct tool.
     doBlocksDropWithoutCorrectTool = false
 
     # If blocks that break instantly are mineable without the correct tool.
-    doInstantBreakBlocksDropWithoutCorrectTool = false
+    doInstantBreakBlocksDropWithoutCorrectTool = true
 
     # If blocks that break instantly drop their items without the correct tool.
     doInstantBreakBlocksMineWithoutCorrectTool = true
