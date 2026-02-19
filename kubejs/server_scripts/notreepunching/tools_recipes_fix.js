@@ -13,13 +13,13 @@ ServerEvents.recipes(event => {
     })
 
   event.shaped('minecraft:wooden_axe', [
-    'PP ',
-    'PS ',
+    ' PP',
+    ' SP',
     ' S '
   ], {
       P: '#minecraft:planks',
       S: 'minecraft:stick'
-    })
+    }).noMirror().noShrink().id('minecraft:wooden_axe')
 
   event.shaped('minecraft:wooden_hoe', [
     'PP ',
@@ -59,13 +59,13 @@ ServerEvents.recipes(event => {
   })
 
   event.shaped('minecraft:stone_axe', [
-    'CC ',
-    'CS ',
+    ' CC',
+    ' SC',
     ' S '
   ], {
       C: 'minecraft:cobblestone',
       S: 'minecraft:stick'
-    })
+    }).noMirror().noShrink()
   
   event.shaped('minecraft:stone_hoe', [
     'CC ',

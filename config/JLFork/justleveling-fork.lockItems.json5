@@ -1464,8 +1464,2987 @@
 				{
 					aptitude: "Magic",
 					level: 8
+				},
+			]
+		},
+		{
+			item: "iceandfire:dragonbone_sword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
 				}
 			]
+				},
+				{
+			item: "iceandfire:dragonbone_sword_fire",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_sword_ice",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_sword_lightning",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_dagger_fire",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_dagger_ice",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_dagger_lightning",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:dragon_bone_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:flamed_dragon_bone_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:iced_dragon_bone_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:lightning_dragon_bone_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:dragonbone_bow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "iceandfire:myrmex_desert_sword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "iceandfire:myrmex_desert_sword_venom",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_club",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_cestus",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_club",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_cestus",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_club",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_cestus",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_club",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_cestus",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_club",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_cestus",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:copper_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 4
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:iron_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:golden_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 6
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:diamond_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 16
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanweaponry:netherite_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 24
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_chitin_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:desert_myrmex_stinger_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_chitin_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_parrying_dagger",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_longsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_katana",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_saber",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_rapier",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_greatsword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_battle_hammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_warhammer",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_spear",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_halberd",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_pike",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_lance",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_glaive",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_quarterstaff",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_scythe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_longbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_heavy_crossbow",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_throwing_knife",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_tomahawk",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_javelin",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_boomerang",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_battleaxe",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+				{
+			item: "spartanfire:jungle_myrmex_stinger_flanged_mace",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 12
+				}
+			]
+				},
+			]
 		}
-	]
-}
