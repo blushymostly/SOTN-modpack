@@ -45,7 +45,7 @@
 		32
 	],
 	// Max Health passive value at max level
-	maxHealthValue: 20.0,
+	maxHealthValue: 30.0,
 	// Max health passive levels. Don't modify the length of the array!
 	maxHealthPassiveLevels: [
 		5,
