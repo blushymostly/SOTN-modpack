@@ -5,7 +5,7 @@
 	#How many ticks the player is invincible for after dodging
 	"Invincibility Ticks" = 6
 	#How many half feathers it costs to dodge
-	"Dodge Cost" = 2
+	"Dodge Cost" = 4
 	#How far the player moves when dodging
 	"Dodge Strength" = 0.25
 	#How high the player moves when dodging
