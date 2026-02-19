@@ -2520,45 +2520,6 @@
             ]
         },
         {
-            "pakku_id": "MvpC69hglu3gHUr4",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "environmental"
-            },
-            "name": {
-                "curseforge": "Environmental"
-            },
-            "id": {
-                "curseforge": "388992"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "environmental-1.20.1-4.1.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7065/177/environmental-1.20.1-4.1.2.jar",
-                    "id": "7065177",
-                    "parent_id": "388992",
-                    "hashes": {
-                        "sha1": "2c110c43d77841924bb2cf08ae7656a104f951f9",
-                        "md5": "b4e8f4869215a3a6a320540a7d10ccb6"
-                    },
-                    "required_dependencies": [
-                        "382216"
-                    ],
-                    "size": 8082615,
-                    "date_published": "2025-10-04T12:06:18.077Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "qGz9zM1XI6XYpXG9",
             "type": "MOD",
             "slug": {
