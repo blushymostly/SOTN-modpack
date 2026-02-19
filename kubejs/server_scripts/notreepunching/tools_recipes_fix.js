@@ -47,4 +47,50 @@ ServerEvents.recipes(event => {
       P: '#minecraft:planks',
       S: 'minecraft:stick'
     })
+   
+    
+  event.shaped('minecraft:stone_pickaxe', [
+    'CCC',
+    ' S ',
+    ' S '
+  ], {
+    C: 'minecraft:cobblestone',
+    S: 'minecraft:stick'
+  })
+
+  event.shaped('minecraft:stone_axe', [
+    'CC ',
+    'CS ',
+    ' S '
+  ], {
+      C: 'minecraft:cobblestone',
+      S: 'minecraft:stick'
+    })
+  
+  event.shaped('minecraft:stone_hoe', [
+    'CC ',
+    ' S ',
+    ' S ',
+  ], {
+      C: 'minecraft:cobblestone',
+      S: 'minecraft:stick'
+    })
+
+    event.shaped('minecraft:stone_sword', [
+      ' C ',
+      ' C ',
+      ' S '
+    ], {
+        C: 'minecraft:cobblestone',
+        S: 'minecraft:stick'
+      })
+  
+    event.shaped('minecraft:stone_shovel', [
+      ' C ',
+      ' S ',
+      ' S '
+    ], {
+        C: 'minecraft:cobblestone',
+        S: 'minecraft:stick'
+      })
 })

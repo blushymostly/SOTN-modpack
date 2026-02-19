@@ -2110,12 +2110,7 @@
             ]
         },
         {
-            "pakku_id": "lgPJvm8cjovAFJud",
-            "pakku_links": [
-                "02O4VNTLN9qTtGVu",
-                "fOC01jbRy9Uk21Ky",
-                "hs4ie1COvOmx1JXJ"
-            ],
+            "pakku_id": "I55pPdmVoIfam1VP",
             "type": "MOD",
             "slug": {
                 "curseforge": "map-atlases-waystones-compatibility"
@@ -2748,42 +2743,6 @@
                     ],
                     "size": 1518437,
                     "date_published": "2025-09-08T14:01:37.067Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "FeJQpm6C48btdwjH",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "reskillable-reimagined"
-            },
-            "name": {
-                "curseforge": "Reskillable Reimagined"
-            },
-            "id": {
-                "curseforge": "1170464"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "reskillable-4.2.4-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7548/186/reskillable-4.2.4-1.20.1.jar",
-                    "id": "7548186",
-                    "parent_id": "1170464",
-                    "hashes": {
-                        "sha1": "ba7bdb4e9e54bbfc1c8ae81d63608747b261fd3c",
-                        "md5": "8783f9450e9b0270b1743e077e29dd38"
-                    },
-                    "required_dependencies": [],
-                    "size": 188816,
-                    "date_published": "2026-01-29T23:13:30.857Z"
                 }
             ]
         },
