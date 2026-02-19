@@ -77,7 +77,7 @@ DEFAULT_BACKGROUND_COLOR = "#F0000000"
 # tooltips for specific items, edit your custom_frames.json and set disableTooltip=true for those items (or tags).
 # 
 # Default: true
-SHOW_TOOLTIP_WITHOUT_STACK = true
+SHOW_TOOLTIP_WITHOUT_STACK = false
 # Horizontal padding for the main panel.
 # 
 # Default: 2

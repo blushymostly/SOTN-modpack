@@ -865,6 +865,42 @@
             ]
         },
         {
+            "pakku_id": "5InhiafMSbVNGNuL",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dynamictrees"
+            },
+            "name": {
+                "curseforge": "Dynamic Trees"
+            },
+            "id": {
+                "curseforge": "252818"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DynamicTrees-1.20.1-1.4.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7502/488/DynamicTrees-1.20.1-1.4.10.jar",
+                    "id": "7502488",
+                    "parent_id": "252818",
+                    "hashes": {
+                        "sha1": "6fdd23dfdbdf0fa88c468b1cae6a2dbefa019923",
+                        "md5": "8e07943262bd8c95712ac3820d9e08a7"
+                    },
+                    "required_dependencies": [],
+                    "size": 3754640,
+                    "date_published": "2026-01-21T19:36:22.373Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "q1zranXvD0zBQ4dQ",
             "type": "MOD",
             "slug": {

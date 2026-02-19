@@ -54,6 +54,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -64,6 +67,13 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "dynamictrees": {
+    "rooty_water": true,
+    "pod": true,
+    "fruit": true,
+    "rooty": true,
+    "branch": true
   },
   "waystones": {
     "waystone": true
