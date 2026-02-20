@@ -349,7 +349,7 @@
 	#Range: 1 ~ 100000
 	durability = 180
 	#Set to true to disable tin weapons
-	disable = false
+	disable = true
 
 [bronze]
 	#Base Damage for bronze weapons
@@ -389,7 +389,7 @@
 	#Range: 1 ~ 100000
 	durability = 180
 	#Set to true to disable electrum weapons
-	disable = false
+	disable = true
 
 [lead]
 	#Base Damage for lead weapons
@@ -399,7 +399,7 @@
 	#Range: 1 ~ 100000
 	durability = 240
 	#Set to true to disable lead weapons
-	disable = false
+	disable = true
 
 [nickel]
 	#Base Damage for nickel weapons
@@ -409,7 +409,7 @@
 	#Range: 1 ~ 100000
 	durability = 200
 	#Set to true to disable nickel weapons
-	disable = false
+	disable = true
 
 [invar]
 	#Base Damage for invar weapons
@@ -419,7 +419,7 @@
 	#Range: 1 ~ 100000
 	durability = 440
 	#Set to true to disable invar weapons
-	disable = false
+	disable = true
 
 [constantan]
 	#Base Damage for constantan weapons
@@ -429,7 +429,7 @@
 	#Range: 1 ~ 100000
 	durability = 300
 	#Set to true to disable constantan weapons
-	disable = false
+	disable = true
 
 [platinum]
 	#Base Damage for platinum weapons
@@ -439,7 +439,7 @@
 	#Range: 1 ~ 100000
 	durability = 1024
 	#Set to true to disable platinum weapons
-	disable = false
+	disable = true
 
 [aluminum]
 	#Base Damage for aluminum weapons
@@ -449,7 +449,7 @@
 	#Range: 1 ~ 100000
 	durability = 400
 	#Set to true to disable aluminum weapons
-	disable = false
+	disable = true
 
 [explosives]
 	#Disables all recipes for explosive related items

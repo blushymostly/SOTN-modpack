@@ -56,7 +56,7 @@
 
 [silver]
 	#Ore generation settings for silver
-	register = true
+	register = false
 	gen_dimensions = ["minecraft:overworld", "nuclearcraft:wasteland"]
 	#Range: 0 ~ 64
 	vein_size = 7
