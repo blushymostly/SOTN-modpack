@@ -2431,6 +2431,51 @@
 			]
 				},
 				{
+			item: "aquamirae:terrible_sword",
+			aptitudes: [
+				{
+					aptitude: "Strength",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "aquamirae:terrible_helmet",
+			aptitudes: [
+				{
+					aptitude: "Defense",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "aquamirae:terrible_chestplate",
+			aptitudes: [
+				{
+					aptitude: "Defense",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "aquamirae:terrible_leggings",
+			aptitudes: [
+				{
+					aptitude: "Defense",
+					level: 8
+				}
+			]
+				},
+				{
+			item: "aquamirae:terrible_boots",
+			aptitudes: [
+				{
+					aptitude: "Defense",
+					level: 8
+				}
+			]
+				},
+				{
 			item: "spartanweaponry:copper_dagger",
 			aptitudes: [
 				{
