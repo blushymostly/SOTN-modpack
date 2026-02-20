@@ -462,17 +462,6 @@
         "value": 1024
       }
     },
-    "attributeslib:mining_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "enhancedai:push_resistance": {
       "enabled": false,
       "min": {
@@ -482,6 +471,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "attributeslib:mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "legendarysurvivaloverhaul:chest_resistance": {
@@ -858,17 +858,6 @@
         "value": 1000000
       }
     },
-    "attributeslib:draw_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 4,
-        "value": 4
-      }
-    },
     "legendarysurvivaloverhaul:broken_heart_resilience": {
       "enabled": false,
       "min": {
@@ -878,6 +867,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "attributeslib:draw_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 4,
+        "value": 4
       }
     },
     "legendarysurvivaloverhaul:heat_resistance": {
@@ -979,17 +979,6 @@
         "value": 1024
       }
     },
-    "attributeslib:current_hp_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "justlevelingfork:break_speed": {
       "enabled": false,
       "min": {
@@ -999,6 +988,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "attributeslib:current_hp_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:generic.movement_speed": {

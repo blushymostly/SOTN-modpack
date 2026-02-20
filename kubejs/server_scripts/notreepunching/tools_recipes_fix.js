@@ -19,7 +19,7 @@ ServerEvents.recipes(event => {
   ], {
       P: '#minecraft:planks',
       S: 'minecraft:stick'
-    }).noMirror().noShrink().id('minecraft:wooden_axe')
+    }).noMirror().noShrink()
 
   event.shaped('minecraft:wooden_hoe', [
     'PP ',
@@ -93,4 +93,36 @@ ServerEvents.recipes(event => {
         C: 'minecraft:cobblestone',
         S: 'minecraft:stick'
       })
+
+    // Copper No Tree Puncing stuff
+
+    event.remove({output: 'droptherock:iaf_copper_knife'})
+    event.shaped('droptherock:iaf_copper_knife', [
+      '   ',
+      ' I ',
+      ' S '
+    ], {
+      I: 'minecraft:copper_ingot',
+      S: 'minecraft:stick'
+    })
+
+    event.remove({output: 'droptherock:iaf_copper_saw'})
+    event.shaped('droptherock:iaf_copper_saw', [
+      '  S',
+      ' SI',
+      'SI '
+    ], {
+      I: 'minecraft:copper_ingot',
+      S: 'minecraft:stick'
+    })
+
+    event.remove({output: 'droptherock:iaf_copper_mattock'})
+    event.shaped('droptherock:iaf_copper_mattock', [
+      'III',
+      ' SI',
+      ' S '
+    ], {
+      I: 'minecraft:copper_ingot',
+      S: 'minecraft:stick'
+    })
 })
