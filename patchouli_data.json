@@ -1,0 +1,14 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [
+        "apotheosis:adventure/bosses/boss_dungeons",
+        "apotheosis:adventure/bosses/minibosses"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

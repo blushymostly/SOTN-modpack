@@ -78,6 +78,11 @@
     "rooty": true,
     "branch": true
   },
+  "apotheosis": {
+    "adventure": true,
+    "ench": true,
+    "spawner": true
+  },
   "waystones": {
     "waystone": true
   },
