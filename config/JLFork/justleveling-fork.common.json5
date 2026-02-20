@@ -8,7 +8,7 @@
 	// Global max level, the global level is calculated summing all aptitudes level, so if this is set to 32 players will be able to only maximize 1 skill.
 	playersMaxGlobalLevel: 256,
 	// First aptitudes level cost
-	aptitudeFirstCostLevel: 5,
+	aptitudeFirstCostLevel: 1,
 	// Show potions overlay over skills
 	showPotionsHud: false,
 	// If true, locked items will be automatically dropped from player hands
