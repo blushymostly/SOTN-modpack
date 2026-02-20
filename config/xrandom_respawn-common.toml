@@ -1,7 +1,0 @@
-
-[xRespawnRadius]
-	#Require's Reloading The World!
-	#Larger Values = More Respawn Delay!
-	#Range: 0 ~ 64000
-	RespawnRadius = 10000
-
